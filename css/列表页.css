@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+.title{height:86px;margin:0 auto;width:1000px;}
+.title01{float:left;margin-top:10px;}
+.title02{float:right;text-align:right;padding-top:25px;}
+.p1{font:12px/20px "微软雅黑";color:#888;}
+.p1 a{font:12px/20px "微软雅黑";color:#888;}
+.p1 span{margin:0 10px;}
+.p2{font:12px/20px "微软雅黑";color:#666;}
+.p2 span{margin:0 13px;}
+.nav{height:46px;background:#005db0;}
+.nav01{margin:0 auto;width:1000px;}
+.nav li{font:15px/46px "微软雅黑";float:left;}
+.nav a{color:#FFF;padding:0 26px;display:block;border-right:1px solid #1c6db5;}
+.nav a:hover{background:#00498b;color:#FFF;}
+
+.banner{background: url(../image/banner.jpg) no-repeat center center;height:394px;position:relative;}
+.idot{width:60px;height:14px;position:absolute;left:50%;top:374px;margin-left:-30px;}
+.idot span{overflow:hidden;background: url(../image/zg_d_21.png) no-repeat center center;display:inline-block;width:10px;height:10px;margin:0 5px;}
+.idot span.on{background: url(../image/zg_d_19.png) no-repeat center center;width:10px;height:10px;}
+
+.mainti{width:1000px;margin:0 auto;}
+.main{margin-top:7px;width:630px;float:left;border-right:1px dashed #ddd;padding-right:19px;}
+.maintitle{font:16px/52px '微软雅黑';color:#555;background: url(../image/maintitle.jpg) no-repeat left center;padding-left:30px;border-bottom:2px solid #dddddd;}
+.main li{font:12px/48px '微软雅黑';border-bottom:1px dashed #ddd;color:#555;}
+.maintitle1{font:12px/20px '微软雅黑';background:#ddd;border:none;color:#666;padding-left:211px;margin-top:15px;}
+.date{float:right;padding-right:47px;color:#999;}
+.date1{color:#555;}
+.mian1{width:330px;float:right;margin-top:10px;padding-left:19px;}
+.maintitle2{font:16px/52px '微软雅黑';color:#555;background: url(../image/titbg02.jpg) no-repeat left center;padding-left:30px;border-bottom:1px solid #dddddd;}
+.mian1 ul{font:12px/34px '微软雅黑';background: url(../image/zg_bk01.jpg) no-repeat right bottom;}
+.style{font-weight:bold;color:#666;font-family:'宋体';}
+.footer{background:#efefef;text-align:center;height:61px;font:12px/61px "宋体"; color:#888;}
+.footer img{margin:0 5px 0 8px;vertical-align:middle;}
